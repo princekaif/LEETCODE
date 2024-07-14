@@ -19,4 +19,5 @@ MY JOURNEY THROUGH OUT JULY 2024 ON LEETCODE SOLVING DAILY POTD
 ![Screenshot 2024-07-11 200343](https://github.com/princekaif/LEETCODE/assets/89538138/e55a454f-ccd4-4425-80ed-d60509a0dd73)
 ![Screenshot 2024-07-12 203633](https://github.com/user-attachments/assets/c816aa25-0e29-40bf-af90-a96be1b06e84)
 ![Screenshot 2024-07-13 182540](https://github.com/user-attachments/assets/0a6b5f5c-1565-44ca-b14e-2f05352fe173)
-![Uploading Screenshot 2024-07-14 231356.png…]()
+![Screenshot 2024-07-14 231356](https://github.com/user-attachments/assets/4ad6808b-98e3-4857-8acd-40f5eb87a895)
+
